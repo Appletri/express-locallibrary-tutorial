@@ -4,7 +4,7 @@
 - [Link to the Assignment](https://www.theodinproject.com/lessons/nodejs-express-105-forms-and-deployment)
 
 ## About
-### Express, NodeJS, PUG
+### Express, NodeJS, PUG, MongoDB
 
 The core of this assignment is to create a library of books where the user can create, read, update, and delete data using express and to deploy it on railway. This project is mostly following the mdn tutorial.
 
